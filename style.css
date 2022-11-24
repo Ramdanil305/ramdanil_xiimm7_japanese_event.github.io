@@ -1,0 +1,20 @@
+.satu{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 5px;
+    float: left;
+    width: 530px;
+    height: 547,5px;
+}
+
+.text{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    text-align: center;
+    float: center;
+}
+
+body{
+    background-color: salmon;
+}
